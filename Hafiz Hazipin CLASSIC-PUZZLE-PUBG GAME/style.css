@@ -1,0 +1,103 @@
+canvas {
+	width:450px;
+	height:450px;
+    border: 5px solid black;
+    margin:150px;
+}
+
+
+#top{
+	background-image: url(images/pubg.jpg);
+	align-items: center;
+	width:1540px;
+	margin:-30px; 
+	margin-top:0px; 
+	text-align:center;
+}
+
+#header{
+	width:1190; 
+	height:100px;
+	border-left:10px solid black;
+}
+
+#Heading{
+	font-size:70px; 
+	text-align:center; 
+	color:black; 
+	text-shadow:2px 2px cyan;
+	text-decoration:underline;
+}
+
+#Box{
+	width:50%; 
+	float:left; 
+	display:inline-block;
+}
+
+#jumbotron1{
+	background-image: url(images/footer.jpg);
+	margin-top: 85px;
+	height: 300px;
+}
+
+#jumbotron2{
+	background-image: url(images/Background.jpg);
+	background-size: cover;
+	justify-content: center;
+	margin-top: 80px;
+	width:1518px;
+	height: 800px;
+}
+
+#text{
+	text-align:center; 
+	height:30px;
+}
+
+#textbox{
+	text-align:center; 
+	height:30px;
+}
+
+
+#cheers{
+	display:none;
+}
+
+#moves{
+	color: white;
+	text-align:left;
+}
+
+
+#Box2{
+	padding-top:0px; 
+	text-align:center; 
+	width:50%
+	padding-top: 10px;
+}
+
+#original{
+    margin-top:250px;
+	font-size:40px; 
+	font-weight: bolder;
+	-webkit-text-stroke: 1px #FFFF00;
+	color:blue; 
+	text-decoration:underline;
+}
+
+#image{
+	margin:auto;
+}
+
+#button{
+	margin-top: 30px;
+	margin-left: -600px;
+}
+
+#Instruction{
+	font-weight: bolder;
+	color: #ffffff;
+	-webkit-text-stroke: 1px #000000;
+}
